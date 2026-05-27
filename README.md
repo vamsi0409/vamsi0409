@@ -53,9 +53,7 @@ Analyzed 7,032 customer records to find churn drivers. Month-to-month contracts 
 ### 🟠 [Sales & Revenue Analytics](https://github.com/vamsi0409/Sales-Revenue-Analytics)
 Analyzed $2.3M in sales across 9,994 orders and 4 regions. Found that the Tables sub-category was losing $17,725 despite $206K in sales. Found that the top revenue customer was actually unprofitable at -$1,980. West region at 14.9% margin vs Central at 7.9%. Wrote 8 SQL queries. Published Tableau dashboard.
 
-**[Live Dashboard →](https://public.tableau.com/authoring/SalesRevenueAnalyticsDashboard/SalesRevenueAnalyticsDashboard#1)**
-
----
+**[Live Dashboard →](https://public.tableau.com/app/profile/vamsi.batchu8113/viz/SalesRevenueAnalyticsDashboard/SalesRevenueAnalyticsDashboard)
 
 ### 🔵 [COVID-19 Healthcare Analysis](https://github.com/vamsi0409/COVID-19-Healthcare-Analysis)
 Analyzed 15,633 state-level daily records across 56 US states. New York's 3.85% fatality rate was double the national average of 1.88% despite fewer cases than California. California averaged 4,879 daily new cases. New York averaged 97.7 daily deaths. Wrote 8 SQL queries. Built interactive HTML/JS dashboard deployed on GitHub Pages.
