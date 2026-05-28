@@ -1,6 +1,6 @@
 # Hey, I'm Vamsi 👋
 
-I'm a Data Analyst completing my MS in Information Systems at Saint Louis University (May 2026). I build end-to-end analytics projects — SQL, Python, machine learning, and dashboards — and I care about finding the findings that actually change decisions.
+I'm a Data Analyst completing my MS in Information Systems at Saint Louis University (May 2026). I build end-to-end analytics projects — SQL, Python, machine learning, and dashboards  and I care about finding the findings that actually change decisions.
 
 The Tables sub-category was losing $17,725 despite $206K in sales. New York's COVID fatality rate was double California's despite fewer total cases. A telecom company's churned customers were actually paying **more** per month than retained ones. These are the kinds of things I look for.
 
